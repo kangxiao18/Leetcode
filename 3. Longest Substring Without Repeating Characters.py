@@ -19,7 +19,6 @@ class Solution:
 
 if __name__ == '__main__':
     s = " "
-
     S = Solution()
     num = S.lengthOfLongestSubstring(s)
     print(num)
